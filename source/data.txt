@@ -1,0 +1,15 @@
+9/27/2021	1:02 PM	Fault	Absorption Tower Fault
+9/27/2021	1:02 PM	Fault	Ammonia Flow Rate Fault
+9/27/2021	1:02 PM	Fault	Intake Air Flow Fault
+9/27/2021	1:02 PM	Fault	Converter Fault
+9/27/2021	1:02 PM	Fault	Cooler Failure
+9/27/2021	1:02 PM	Fault	Condensor Fault
+9/27/2021	1:03 PM	Fault	Intake Air Flow Fault
+9/27/2021	1:03 PM	Fault	Intake Air Flow Fault
+9/27/2021	1:03 PM	Fault	Ammonia Flow Rate Fault
+9/27/2021	1:03 PM	Fault	Converter Fault
+9/27/2021	1:03 PM	Fault	Cooler Failure
+9/27/2021	1:03 PM	Fault	Cooler Failure
+9/27/2021	1:04 PM	Fault	Converter Fault
+9/27/2021	1:04 PM	Fault	Converter Fault
+9/27/2021	1:04 PM	Fault	Converter Fault

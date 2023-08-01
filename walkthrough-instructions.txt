@@ -1,0 +1,40 @@
+Hello
+
+-> Open the project file in its source directory
+
+-> program.vi is the main VI -> you can open it
+
+-> Set the path to the excel file to be used for logging. A new file (path to a non-existent file) on the source directory is best to avoid formating issues that may result from opening a file previously editted (thus format changed) by excel program
+
+ a .xls file is best (.xlsx has more formatting requirements)
+
+-> Run the python script for creating the HTML file with dynamic prices
+
+-> Set the program parameters to normal values before simulation
+
+-> You can then start the simulation
+
+-> Toggle on the Run Plant switch
+
+-> All utilities go online.
+
+-> You can turn on a valve
+
+-> To simulate faulty conditions, vary the horizontal slide scales to extreme levels
+
+-> Affected utilies turn red
+
+-> You can then preview the log file
+
+-> If the simulation crashes, kill the process via ctrl+alt+del and repeat.
+
+-> Lets preview the log file though
+
+-> Open excel and navigate to the saved file location
+
+-> The triggered faults have been recorded
+
+
+
+
+
